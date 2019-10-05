@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_This is a page of my favorite things_
+
+**1.  Tesla Model 3**
+
+**2.  Real Estate**
+
+**3.  Kids**
