@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[What's New in Security at AWS](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/?whats-new-content.sort-by=item.additionalFields.postDateTime&whats-new-content.sort-order=desc)
